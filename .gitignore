@@ -1,0 +1,10 @@
+# C
+core
+*.o
+
+# Java
+*.jar
+
+# Python
+*.pyc
+__pycache__
